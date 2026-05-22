@@ -6,5 +6,6 @@
         public int Num2 { get; set; }
         public int Num3 { get; set; }
         public int Num4 { get; set; }
+        public int Num5 { get; set; }
     }
 }
