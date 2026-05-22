@@ -8,5 +8,6 @@
         public int Num4 { get; set; }
         public int Num5 { get; set; }
         public int Num6 { get; set; }
+        public int Num8 { get; set; }
     }
 }
